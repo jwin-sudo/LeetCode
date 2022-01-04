@@ -1,2 +1,1 @@
-def reverseString:
-  
+print('Hello World')  
